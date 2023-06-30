@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey!
+I'm reycko, a 13 year old GML "coder" that likes to do some other stuff as a pastime.
+Stuff I've made: [(click here)](https://pastebin.com/raw/QiNpEYja)
 
 <!--
 **Reycko/Reycko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
