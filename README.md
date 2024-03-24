@@ -1,5 +1,5 @@
 ### Hey!
-I'm Reycko, a 13 year old GML "coder" that likes to do some other stuff as a pastime.
+I'm Reycko, a 13 year old "coder" that likes to do some other stuff as a pastime.
 Stuff I've made: [(click here)](https://pastebin.com/raw/QiNpEYja)
 
 <!--
