@@ -5,15 +5,15 @@ Stuff I've made: [(click here)](https://pastebin.com/raw/QiNpEYja)
 <!--START_SECTION:wakasection-->
 
 ```txt
-From: 13 April 2024 - To: 08 June 2024
+From: 13 April 2024 - To: 09 June 2024
 
-Total Time: 52 hrs 4 mins
+Total Time: 58 hrs 43 mins
 
-C#                14 hrs 40 mins  ███████░░░░░░░░░░░░░░░░░░   27.58 %
-Haxe              7 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-SourcePawn        5 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-Python            5 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-INI               4 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+C#                14 hrs 40 mins  ██████░░░░░░░░░░░░░░░░░░░   24.50 %
+Haxe              7 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+Lua               7 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+SourcePawn        5 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Python            5 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
 ```
 
 <!--END_SECTION:wakasection-->
