@@ -5,15 +5,15 @@ Stuff I've made: [(click here)](https://pastebin.com/raw/QiNpEYja)
 <!--START_SECTION:wakasection-->
 
 ```txt
-From: 13 April 2024 - To: 30 July 2024
+From: 13 April 2024 - To: 31 July 2024
 
-Total Time: 180 hrs 38 mins
+Total Time: 182 hrs 10 mins
 
-C++               50 hrs 44 mins  ███████░░░░░░░░░░░░░░░░░░   27.60 %
-C#                35 hrs 4 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
-HTML              10 hrs 7 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Lua               8 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-JSON              7 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+C++               50 hrs 44 mins  ███████░░░░░░░░░░░░░░░░░░   27.37 %
+C#                35 hrs 4 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+HTML              10 hrs 7 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Lua               8 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+JSON              8 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
 
 <!--END_SECTION:wakasection-->
