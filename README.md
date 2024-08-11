@@ -5,7 +5,7 @@ Stuff I've made: [(click here)](https://pastebin.com/raw/QiNpEYja)
 <!--START_SECTION:wakasection-->
 
 ```txt
-From: 13 April 2024 - To: 08 August 2024
+From: 13 April 2024 - To: 09 August 2024
 
 Total Time: 188 hrs 16 mins
 
