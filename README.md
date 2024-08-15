@@ -1,6 +1,6 @@
 ### Hey!
-I'm Reycko, a developer that likes to do some other stuff as a pastime.
-Stuff I've made: [(click here)](https://pastebin.com/raw/QiNpEYja)
+I'm Reycko, a developer that likes to do some other stuff as a pastime.  
+[My Website](https://reycko.root.sx)
 
 <!--START_SECTION:wakasection-->
 
