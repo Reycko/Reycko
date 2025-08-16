@@ -5,9 +5,9 @@ I'm Reycko, a developer that likes to do some other stuff as a pastime.
 <!--START_SECTION:wakasection-->
 
 ```txt
-From: 13 April 2024 - To: 13 August 2025
+From: 13 April 2024 - To: 14 August 2025
 
-Total Time: 679 hrs 2 mins
+Total Time: 679 hrs 7 mins
 
 C++               108 hrs 21 mins ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
 TypeScript        106 hrs         ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
