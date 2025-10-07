@@ -1,6 +1,6 @@
 ### Hey!
 I'm Reycko, a developer that likes to do some other stuff as a pastime.  
-[My Website](https://reycko.root.sx)
+[My Website](https://www.reycko.xyz/)
 
 <!--START_SECTION:wakasection-->
 
