@@ -18,6 +18,7 @@ Haxe                               60 hrs 15 mins  ██░░░░░░░�
 
 <!--END_SECTION:wakasection-->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Reycko&show_icons=true&theme=dark&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Reycko&show_icons=true&theme=merko&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=reycko&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Metrics](/github-metrics.svg)
