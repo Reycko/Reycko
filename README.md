@@ -5,15 +5,15 @@ I'm Reycko, a developer that likes to do some other stuff as a pastime.
 <!--START_SECTION:wakasection-->
 
 ```txt
-From: 13 April 2024 - To: 22 December 2025
+From: 13 April 2024 - To: 23 December 2025
 
-Total Time: 852 hrs 53 mins
+Total Time: 853 hrs 56 mins
 
-C++                                115 hrs 19 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
-TypeScript                         114 hrs 59 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-Lua                                93 hrs 15 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-C#                                 68 hrs 55 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Haxe                               67 hrs 58 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+C++                                115 hrs 19 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+TypeScript                         114 hrs 59 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+Lua                                93 hrs 15 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+C#                                 69 hrs 29 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Haxe                               67 hrs 58 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
 ```
 
 <!--END_SECTION:wakasection-->
