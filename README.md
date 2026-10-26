@@ -5,7 +5,7 @@ I'm Reycko, a developer that likes to do some other stuff as a pastime.
 <!--START_SECTION:wakasection-->
 
 ```txt
-From: 13 April 2024 - To: 23 October 2026
+From: 13 April 2024 - To: 24 October 2026
 
 Total Time: 1,279 hrs 3 mins
 
